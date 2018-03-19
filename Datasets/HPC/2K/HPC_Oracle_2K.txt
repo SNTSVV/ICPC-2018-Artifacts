@@ -1,0 +1,42 @@
+inconsistent nodesets * *  <ok>  * * <ok>  * * <ok>  * * <ok> * *  <ok>  * * <ok> * *  <ok> * *  <ok> * *  <ok>  * * <ok>  * * <ok>  * * <ok>  * * <ok>
+inconsistent nodesets  * * <ok> * *  <ok> * *  <ok>  * * <ok>  * * <ok>
+inconsistent nodesets * *  <ok> * *  <ok> * *  <ok> * *  <ok>
+ClusterFileSystem: ServerFileSystem domain * is no longer served by node *
+ClusterFileSystem: There is no server for ServerFileSystem domain *
+Command has been aborted
+Command has completed successfully
+Component State Change: Component * is in the unavailable state ( HWID = * )
+Failed subcommands *
+Fan speeds ( * * * *** * *  )
+Fan speeds ( * * * * * *  )
+Linkerror event interval expired
+NIFF: node * detected a failed network connection on network *  via interface alt0
+NIFF: node * has detected an available network connection on network * via interface *
+Targeting domains: * and nodes: *
+ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+ServerFileSystem: ServerFileSystem domain * is full
+Targeting domains: * and nodes : *  child of command *
+Targeting domains: * and nodes: *
+Temperature ( 41C ) exceeds warning threshold
+boot (command * ) Error: HALT asserted\  cannot continue
+*  (command * )
+link errors remain current
+risBoot (command * ) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+Link error on broadcast tree * : * : * : *
+not responding
+psu failure\ ambient = *
+power/control problem
+configured out
+not-responding
+Link ok
+Link error
+Link in reset
+running
+starting
+warning
+active
+closing
+normal
+blocked
+critical
+ambient = *

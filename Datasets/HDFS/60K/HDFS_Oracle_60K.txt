@@ -1,0 +1,62 @@
+ * : DataXceiver :  *
+ * : DataXceiver :  java.io.IOException :  Block  *  has already been started  ( though not completed )  ,  and thus cannot be created.
+ * : DataXceiver :  java.io.IOException :  Block  *  is not valid.
+ * : DataXceiver :  java.io.IOException :  Block  *  is valid ,  and cannot be written to.
+ * : DataXceiver :  java.io.IOException :  Interrupted receiveBlock
+ * : DataXceiver :  java.net.ConnectException :  Connection refused
+ * : DataXceiver :  java.net.SocketException :  Broken pipe
+ * : DataXceiver :  java.net.SocketException :  Connection reset
+ * : DataXceiver :  java.net.SocketTimeoutException :  Read timed out
+ * : Failed to transfer  *  to  * got java.net.SocketException :  Connection reset
+ * : Got exception while serving  *  to  *  :
+ * : Transmitted block  *  to  *
+ * In DataNode.run ,  data  =  FSDataset { dirpath =  '  *  ,  *  ,  *  ,  *  '  }
+ * Served block  *  to  *
+ * Starting thread to transfer block  *  to  *
+ * Starting thread to transfer block  *  to  *  ,   *
+Adding an already existing block  *
+Balancing bandwith is * bytes/s
+BlockReport of * blocks got processed in * msecs
+Changing block file offset of block  *  from * to * meta file offset to *
+Checking Resource aliases
+Datanode * forwarding connect ack to upstream firstbadlink is
+Datanode * forwarding connect ack to upstream firstbadlink is  *
+Datanode * got response for connect ack  from downstream datanode with firstbadlink as
+Datanode * got response for connect ack  from downstream datanode with firstbadlink as  *
+Deleting block  *  file  *
+Exception in receiveBlock for block  *  java.io.EOFException
+Exception in receiveBlock for block  *  java.net.SocketException :  Connection reset
+Initializing JVM Metrics with processName = DataNode ,  sessionId = null
+Opened server at *
+PacketResponder  *  * Exception java.io.EOFException
+PacketResponder  *  * Exception java.net.SocketException :  Broken pipe
+PacketResponder  *  * Exception java.net.SocketTimeoutException :  Read timed out
+PacketResponder * for block  *  Interrupted.
+PacketResponder * for block  *  terminating
+Received block  *  of size * from  *
+Received block  *  src :   *  dest :   *  of size *
+Receiving block  *  src :   *  dest :   *
+Receiving empty packet for block  *
+Registered FSDatasetStatusMBean
+Reopen Block  *
+* :
+Started HttpContext [ /logs , /logs ]
+Started HttpContext [ /static , /static ]
+Started SocketListener on  *
+Started WebApplicationContext [ / , / ]
+Started *
+Unexpected error trying to delete block  * . Block not found in blockMap.
+Verification succeeded for  *
+Version Jetty *
+at node8.herd2.int.last.fm *
+java.io.IOException :  Error in deleting blocks.
+not valid.
+using BLOCKREPORT_INTERVAL of * Initial delay :  60000msec
+writeBlock  *  received exception java.io.EOFException
+writeBlock  *  received exception java.io.IOException :  Block  *  has already been started  ( though not completed )  ,  and thus cannot be created.
+writeBlock  *  received exception java.io.IOException :  Block  *  is valid ,  and cannot be written to.
+writeBlock  *  received exception java.io.IOException :  Interrupted receiveBlock
+writeBlock  *  received exception java.net.ConnectException :  Connection refused
+writeBlock  *  received exception java.net.SocketException :  Broken pipe
+writeBlock  *  received exception java.net.SocketException :  Connection reset
+writeBlock  *  received exception java.net.SocketTimeoutException :  Read timed out

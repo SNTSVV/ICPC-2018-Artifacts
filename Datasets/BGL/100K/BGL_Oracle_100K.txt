@@ -1,0 +1,57 @@
+ * : * * : * * : * * : *
+ * L3 EDRAM error ( s )   ( dcr  *  )  detected and corrected
+ * L3 directory error ( s )   ( dcr  *  )  detected and corrected
+ * ddr errors ( s )  detected and corrected on rank * ,  symbol * ,  bit *
+ * double-hummer alignment exceptions
+ * torus receiver * input pipe error ( s )   ( dcr  *  )  detected and corrected
+ * tree receiver * in re-synch state event ( s )   ( dcr  *  )  detected
+CE sym * ,  at  *  ,  mask  *
+MidplaneSwitchController performing bit sparing on * bit *
+ciod :  Error loading  *  :  invalid or missing program image ,  No such file or directory
+ciod :  LOGIN chdir (  *  )  failed :  No such file or directory
+ciod :  failed to read message prefix on control stream  ( CioStream socket to  *
+ciodb has been restarted.
+core configuration register :   *
+critical input interrupt enable...0
+d-cache * parity *
+data TLB error interrupt
+data address :   *
+data address space................0
+data read plb error...............0
+data write plb error..............0
+ddr :  activating redundant bit steering :  rank = * symbol = *
+ddr :  excessive soft failures ,  consider replacing the card
+debug interrupt enable............0
+debug wait enable.................0
+disable apu instruction broadcast........0
+disable store gathering..................0
+disable trace broadcast..................0
+external input interrupt *
+floating point instr. enabled.....1
+floating pt ex mode * enable......0
+force load/store alignment...............0
+general purpose registers :
+generating  *
+guaranteed * cache block *
+i-cache parity error..............0
+icache prefetch *
+idoproxydb has been started :  $Name :  DRV142_2005 $ Input parameters :  -enableflush -loguserinfo db.properties BlueGene1
+imprecise machine check...........0
+instruction address :   *
+instruction address space.........0
+instruction cache parity error corrected
+instruction plb error.............0
+lr : * cr : * xer : * ctr : *
+machine check enable..............1
+machine check interrupt
+machine check status register :   *
+machine state register :   *
+mmcs_db_server has been started :  ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog  *  --reconnect-blocks all
+problem state  ( * = sup , * = usr ) *
+rts internal error
+rts panic! - stopping execution
+special purpose registers :
+summary...........................1
+tlb error.........................0
+total of * ddr error ( s )  detected and corrected
+wait state enable.................0

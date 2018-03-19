@@ -1,0 +1,16 @@
+ *   Served block  *  to  *
+ *   Starting thread to transfer block  *  to  *
+ *  :Got exception while serving  *  to  * :
+BLOCK* NameSystem.addStoredBlock: blockMap updated:  *  is added to  *  size *
+BLOCK* NameSystem.allocateBlock:  *   *
+BLOCK* NameSystem.delete:  *  is added to invalidSet of  *
+BLOCK* ask  *   to delete   *
+BLOCK* ask  *  to delete   *   *   *   *   *   *   *   *   *
+BLOCK* ask  *  to delete   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
+BLOCK* ask  *   to replicate  *  to datanode ( s )   *
+Deleting block  *  file  *
+PacketResponder * for block  *  terminating
+Received block  *  of size * from  *
+Received block  *  src:  *    dest:  *  of size *
+Receiving block  *  src:  *   dest:  *
+Verification succeeded for  *

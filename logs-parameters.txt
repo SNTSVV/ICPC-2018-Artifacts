@@ -1,0 +1,7 @@
+Datasets/BGL/2K/BGL_2K_log_messages.txt ## Datasets/BGL/2K/BGL_Oracle_2K.txt ## 0 ## "\\n" ## (/[\\d+\\w+\\-_\\.\\#\\$]*[/\\.][\\d+\\w+\\-_\\.\\#\\$/*]*)+ core\\.[0-9]* 0x([a-zA-Z]|[0-9])+ (\\s|)([0-9A-F]){9,}(|\\s) (^|\\s)([0-9a-f]){8,}(\\s|$) (^|\\s)\\d+(\\s|$)
+Datasets/HDFS/2K/HDFS_2K_log_messages.txt ## Datasets/HDFS/2K/HDFS_Oracle_2K.txt ## 0 ## "\\n" ## blk_(|-)[0-9]+ (/|)([0-9]+\\.){3}[0-9]+(:[0-9]+|)(:|)
+Datasets/HPC/2K/HPC_2k_log_messages.txt ## Datasets/HPC/2K/HPC_Oracle_2K.txt ## 0 ## "\\n" ## node-(|\\w+)(|\\s*)(\\[(|\\s*)(((\\d+)(|\\W*)(|\\s*)){1,})\\]) node-(|\\w+)(\\d+)(\\w+|) (/[\\d+\\w+\\-_\\.\\#\\$]*[/\\.][\\d+\\w+\\-_\\.\\#\\$/*]*)+ 0x([a-zA-Z]|[0-9])+ (\\s|)([0-9A-F]){9,}(|\\s) (^|\\s)([0-9a-f]){8,}(\\s|$) (^|\\s)\\d+(\\s|$)
+Datasets/PRX/2K/PRX_2K_log_messages.txt ## Datasets/PRX/2K/PRX_Oracle_2K.txt ## 0 ## "\\n" ## \\s\\d+\\.\\d+\\s
+Datasets/ZK/2K/ZK_2K_log_messages.txt ## Datasets/ZK/2K/ZK_Oracle_2K.txt ## 0 ## "\\n" ## (/|)([0-9]+\\.){3}[0-9]+(:[0-9]+|) (^|\\s)(|-)\\d+(\\s|$)
+Datasets/BGL/100K/BGL_100K_log_messages.txt ## Datasets/BGL/100K/BGL_Oracle_100K.txt ## 0 ## "\\n" ## (/[\\d+\\w+\\-_\\.\\#\\$]*[/\\.][\\d+\\w+\\-_\\.\\#\\$/*]*)+ core\\.[0-9]* 0x([a-zA-Z]|[0-9])+ (\\s|)([0-9A-F]){9,}(|\\s) (^|\\s)([0-9a-f]){8,}(\\s|$) (^|\\s)\\d+(\\s|$)
+Datasets/HDFS/60K/HDFS_60K_log_messages.txt ## Datasets/HDFS/60K/HDFS_Oracle_60K.txt ## 0 ## "\\n" ## blk_(|-)[0-9]+ (/|)([0-9]+\\.){3}[0-9]+(:[0-9]+|)(:|)
